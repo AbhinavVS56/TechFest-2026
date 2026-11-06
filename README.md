@@ -46,3 +46,5 @@ npm run dev
 - Add a Netlify SPA redirect: `frontend/public/_redirects` contains `/* /index.html 200`.
 
 Never commit `.env` files, credentials, database passwords or JWT secrets.
+
+Experiment 5 security improvements completed.
